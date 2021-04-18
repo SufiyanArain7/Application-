@@ -86,4 +86,4 @@ async def decline_error(ctx, error):
 	if isinstance(error, commands.MissingRequiredArgument):
 		await ctx.send("Please Enter the ID of the member you want to decline!")
 
-client.run("Nzk5NjU5ODczMzAyMDg1NjMy.YAGzSg.GNOpNmM5IdaDgBxU3wCMD_qu5hQ")
+client.run("")
